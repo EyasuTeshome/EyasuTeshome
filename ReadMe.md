@@ -1,4 +1,7 @@
 # 💫 About Me:
+### Hello, I am Eyasu.
+    * Full Stack Developer 
+    * Available for hire
 ✨ I am Currently learning at Microverse.<br>🎹 I like to play piano.<br>♟ Chess is my favorite game.
 
 
