@@ -1,8 +1,12 @@
 # 💫 About Me:
-### Hello, I am Eyasu.
+## Hello, I am Eyasu.
+    * Email : joshtesh91@gmail.com
+    * Location : Jiangsu, China
     * Full Stack Developer 
     * Available for hire
+    
 ✨ I am Currently learning at Microverse.<br>🎹 I like to play piano.<br>♟ Chess is my favorite game.
+
 
 
 ## 🌐 Socials:
